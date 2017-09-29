@@ -75,5 +75,3 @@ if [ -f /LSDTopoTools/Git_projects/LSDTopoTools_ChannelExtraction/LSDRaster.cpp 
     echo "Cloning the channel extraction packages"
     git clone https://github.com/LSDtopotools/LSDTopoTools_ChannelExtraction.git /LSDTopoTools/Git_projects/LSDTopoTools_ChannelExtraction
 fi
-
-bash
