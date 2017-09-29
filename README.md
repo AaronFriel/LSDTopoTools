@@ -12,11 +12,11 @@ How to use. Instructions assume a Windows 10 device:
 2. Configure Docker for Windows to use up to 4GB of memory. Right click the
    Docker taskbar icon, and go to "Settings".
 
-   ![Opening up the Docker Settings](docs/Setup-1.png)
+   ![Opening up the Docker Settings](https://github.com/AaronFriel/LSDTopoTools/raw/master/docs/Setup-1.png)
 
    Click on "Advanced" and move the slider for memory up to 4096 MB:
 
-   ![Moving the memory slider to 4096 MB](docs/Setup-2.png)
+   ![Moving the memory slider to 4096 MB](https://github.com/AaronFriel/LSDTopoTools/raw/master/docs/Setup-2.png)
 
    Click Apply, and wait for Docker to stop updating the virtual machine. (This
    could take thirty seconds to a minute.)
