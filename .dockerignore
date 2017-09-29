@@ -1,2 +1,5 @@
 .vagrant
 .vscode
+docs
+README.md
+vagrantfile
