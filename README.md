@@ -29,7 +29,7 @@ How to use. Instructions assume a Windows 10 device:
    PowerShell prompt.
 
    ```bash
-   docker run --rm -it -v P:\vagrantboxes\LSDTopoTools\:/LSDTopoTools topo
+   docker run --rm -it -v P:\vagrantboxes\LSDTopoTools\:/LSDTopoTools afriel/lsdtopotools
    ```
 
 4. You should get a prompt that looks like this, perhaps with some different
